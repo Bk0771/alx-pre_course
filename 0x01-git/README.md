@@ -1,2 +1,2 @@
-#alx-pre_course updated
-My first commit
+#alx-pre_course 
+My readme is up to date
