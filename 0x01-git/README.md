@@ -1,2 +1,2 @@
 #alx-pre_course 
-My readme is up to date
+My README is up to date
